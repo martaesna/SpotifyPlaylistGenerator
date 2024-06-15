@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SpotifyPlaylistGenerator/static/css/main.95cfa0b7.css",
+    "main.js": "/SpotifyPlaylistGenerator/static/js/main.cc42829e.js",
+    "index.html": "/SpotifyPlaylistGenerator/index.html",
+    "main.95cfa0b7.css.map": "/SpotifyPlaylistGenerator/static/css/main.95cfa0b7.css.map",
+    "main.cc42829e.js.map": "/SpotifyPlaylistGenerator/static/js/main.cc42829e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95cfa0b7.css",
+    "static/js/main.cc42829e.js"
+  ]
+}
